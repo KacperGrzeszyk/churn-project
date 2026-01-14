@@ -5,7 +5,9 @@
 ![Machine Learning](https://img.shields.io/badge/ML-Random%20Forest-green.svg)
 
 Kompleksowy system klasy Enterprise do przewidywania odejść klientów (Churn Prediction) i optymalizacji przychodów (Revenue Operations). Aplikacja łączy zaawansowane uczenie maszynowe z analityką biznesową, pomagając firmom subskrypcyjnym ratować zagrożony przychód.
-
+____________________________________________
+ZACHĘCAM DO ZAPOZNANIA SIE Z DOKUMENTEM PDF
+____________________________________________
 ## 🚀 Kluczowe Funkcje
 
 - **Predykcja Churnu AI**: Wykorzystanie modelu Random Forest do szacowania prawdopodobieństwa odejścia klienta w czasie rzeczywistym.
